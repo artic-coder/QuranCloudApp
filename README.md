@@ -30,34 +30,34 @@ _Windows_ : Its uses **Win32 Library** so no need to download anything.</br>
 
 ## Searching using keywords : 
 
-![quran_search](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_search.jpg.jpg?raw=true "")
+![quran_search](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_search.jpg?raw=true "")
 
 ## Get Quran surah by number : 
 
-![quran_surah](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_surah.jpg.jpg?raw=true "")
+![quran_surah](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_surah.jpg?raw=true "")
 
 ## Get Quran ayah by number : 
 
-![quran_ayah](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_ayah.jpg.jpg?raw=true "")
+![quran_ayah](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_ayah.jpg?raw=true "")
 
 ## Get Quran page by number : 
 
-![quran_page](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_page.jpg.jpg?raw=true "")
+![quran_page](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_page.jpg?raw=true "")
 
 ## Get whole Quran by language : 
 
-![quran_whole](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_whole.jpg.jpg?raw=true "")
+![quran_whole](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_whole.jpg?raw=true "")
 
 ## Get list of Quran languages : 
 
-![quran_languages](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_languages.jpg.jpg?raw=true "")
+![quran_languages](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_languages.jpg?raw=true "")
 
 ## Get list of Quran types : 
 
-![quran_types](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_types.jpg.jpg?raw=true "")
+![quran_types](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_types.jpg?raw=true "")
 
 ## Get list of Quran formats : 
 
-![quran_formats](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_formats.jpg.jpg?raw=true "")
+![quran_formats](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_formats.jpg?raw=true "")
 
 Written and maintained by Abdul HaseeB Mir (haseebmir.hm@gmail.com)
