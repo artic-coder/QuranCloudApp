@@ -26,6 +26,12 @@ _Windows_ : Its uses **Win32 Library** so no need to download anything.</br>
 9) Portability to work on every **major OS** like **_Windows,Linux,Mac_**.</br>
 10) Shows lists of Quran type,languages and formats aswell which are supported by API.
 
+# How to compile on windows :
+You have to add **_WS-Library_** in your project by adding **'-l "ws2_32'** in compiler option if you are using IDE like **CodeBlocks,DevCPP**.</br>
+Or If you are using **Visual Studio** then add this line of code **_#pragma comment(lib, "ws2_32")_**</br>
+Or you can compile with **gcc** using this command **_gcc QuranCloudApp.c -o QuranCloudApp.exe -l "ws2_32_**</br>
+**_NOTE : ITS NOT NEEDED IF YOU USING OS OTHER THAN WINDOWS, COMPILE NORMALLY_**</br>
+
 # Application Components :
 
 ## Searching using keywords : 
