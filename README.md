@@ -65,5 +65,3 @@ Or you can compile with **gcc** using this command **_gcc QuranCloudApp.c -o Qur
 ## Get list of Quran formats : 
 
 ![quran_formats](https://github.com/haseeb-heaven/QuranCloudApp/blob/master/resources/quran_formats.jpg?raw=true "")
-
-Written and maintained by Abdul HaseeB Mir (haseebmir.hm@gmail.com)
